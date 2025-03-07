@@ -1,0 +1,36 @@
+# Compiled files
+*.class
+
+# Maven build
+target/
+.mvn/
+mvnw
+mvnw.cmd
+
+# Spring-specific
+*.log
+logs/
+spring.log
+
+# Dependency cache
+dependency-reduced-pom.xml
+
+# Dependency dirs
+lib/  # Managed by Maven
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local config
+application-local.properties
+application-dev.properties
+*.env
