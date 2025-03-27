@@ -1,4 +1,4 @@
-package com.spring_start_here.main;
+package com.spring_start_here.beans;
 
 public class Book {
 	private int numberOfPages;

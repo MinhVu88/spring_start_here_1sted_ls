@@ -1,0 +1,12 @@
+com\spring_start_here\config\Config1.class
+com\spring_start_here\beans\Person2.class
+com\spring_start_here\beans\Job2.class
+com\spring_start_here\beans\Job1.class
+com\spring_start_here\beans\Person1.class
+com\spring_start_here\config\Config0.class
+com\spring_start_here\beans\Job0.class
+com\spring_start_here\beans\Person3.class
+com\spring_start_here\beans\Person4.class
+com\spring_start_here\Main.class
+com\spring_start_here\beans\CircularDependencySolver.class
+com\spring_start_here\beans\Person0.class

@@ -4,7 +4,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
 
-import com.spring_start_here.main.Person;
+import com.spring_start_here.beans.Person;
 
 @Configuration
 public class Config0 {
