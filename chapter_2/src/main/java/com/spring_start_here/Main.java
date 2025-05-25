@@ -8,9 +8,9 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import com.spring_start_here.beans.Book;
 import com.spring_start_here.beans.Job;
 import com.spring_start_here.beans.Person;
-import com.spring_start_here.config.Config0;
-import com.spring_start_here.config.Config1;
-import com.spring_start_here.config.Config2;
+import com.spring_start_here.configs.Config0;
+import com.spring_start_here.configs.Config1;
+import com.spring_start_here.configs.Config2;
 
 public class Main {
 	public static void main(String[] args) {

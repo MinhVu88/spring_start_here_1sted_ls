@@ -12,7 +12,6 @@ import com.spring_start_here.beans.Person1;
 import com.spring_start_here.beans.Person2;
 import com.spring_start_here.beans.Person3;
 import com.spring_start_here.beans.Person4;
-import com.spring_start_here.config.Config;
 
 @SuppressWarnings("unused")
 public class Main {

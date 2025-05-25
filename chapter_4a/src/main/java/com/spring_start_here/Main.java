@@ -1,9 +1,9 @@
 package com.spring_start_here;
 
-import com.spring_start_here.model.Comment;
-import com.spring_start_here.proxy.NotificationProxyImpl;
-import com.spring_start_here.repo.CommentRepoImpl;
-import com.spring_start_here.service.CommentService;
+import com.spring_start_here.models.Comment;
+import com.spring_start_here.proxies.NotificationProxyImpl;
+import com.spring_start_here.repositories.CommentRepoImpl;
+import com.spring_start_here.services.CommentService;
 
 public class Main {
 	public static void main(String[] args) {

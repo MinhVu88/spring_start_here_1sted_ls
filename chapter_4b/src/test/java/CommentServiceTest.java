@@ -4,10 +4,10 @@ import static org.mockito.Mockito.verify;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import com.spring_start_here.model.Comment;
-import com.spring_start_here.proxy.NotificationProxy;
-import com.spring_start_here.repo.CommentRepository;
-import com.spring_start_here.service.CommentService;
+import com.spring_start_here.models.Comment;
+import com.spring_start_here.proxies.NotificationProxy;
+import com.spring_start_here.repositories.CommentRepository;
+import com.spring_start_here.services.CommentService;
 
 public class CommentServiceTest {
 	@Test

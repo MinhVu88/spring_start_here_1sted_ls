@@ -3,8 +3,8 @@ package com.spring_start_here;
 import org.springframework.beans.BeansException;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import com.spring_start_here.model.Comment;
-import com.spring_start_here.service.CommentService;
+import com.spring_start_here.models.Comment;
+import com.spring_start_here.services.CommentService;
 
 public class Main {
 	public static void main(String[] args) {
